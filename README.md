@@ -6,7 +6,7 @@ As a complete beginner currently learning how to play guitar, I need a specific 
 
 This program has the following features:
 1. Recording microphone with a set duration
-2. Recording microphone with a indefinite duration
+2. Recording microphone with a indefinite duration until manually stopped
 4. Playing a selected recording via naming
 5. Deleting a selected recording via naming
 6. Command line interface
@@ -14,7 +14,7 @@ This program has the following features:
 
 Startup instruction:
 1. Download into Pycharm
-2. Add Sounddevice and Soundfile to project dependencies
+2. Add Sounddevice, Soundfile, and numpy to project dependencies
 3. Run the AudioPlayer.py file
 
 
